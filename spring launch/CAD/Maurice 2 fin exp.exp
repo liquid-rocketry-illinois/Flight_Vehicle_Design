@@ -1,0 +1,21 @@
+﻿// Version:  3
+[Inch]Height=2.9
+[Inch]Root_Cord=8
+[Inch]Thickness=0.25
+[Inch]def_h=1
+[Inch]def_w=1
+[Inch]p0=tip_cord
+[Inch]p1=root_cord
+[Inch]p3=Sweep_length
+[Inch]p4=Height
+[Inch]p5=tab_h
+[Inch]p6=tab_l
+[Inch]p7=def_h
+[Inch]p8=def_w
+[Inch]p9=0
+[Inch]p10=Thickness
+[Inch]sweep_length=5.634
+[Inch]tab_h=0.7
+[Inch]tab_l=3
+[Inch]test_length=5
+[Inch]tip_cord=3
