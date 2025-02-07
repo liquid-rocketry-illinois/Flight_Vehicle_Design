@@ -1,0 +1,16 @@
+﻿// Version:  3
+[Inch]AVCoupler_DistanceTopUpperAirframe=3.5
+[Inch]AVCoupler_InnerRadius=1.4345
+[Inch]AVCoupler_Length=7.3
+[Inch]AVCoupler_OuterRadius=1.495
+[Inch]Airframe_InnerRadius=1.5
+[Inch]Airframe_Length=22.1
+[Inch]Airframe_OuterRadius=1.55
+[Inch]NoseCone_ShoulderInnerRadius=1
+[Inch]NoseCone_ShoulderLength=3
+[Inch]NoseCone_ShoulderOuterRadius=1.5
+[Inch]NoseCone_Thickness=.5
+[Inch]UpperAirframe_InnerRadius=1.5
+[Inch]UpperAirframe_Length=6.5
+[Inch]UpperAirframe_OuterRadius=1.55
+[Inch]p0=AVCoupler_DistanceTopUpperAirframe
