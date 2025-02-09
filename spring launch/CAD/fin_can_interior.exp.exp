@@ -3,9 +3,17 @@
 [Inch]MMT_ID=1.525
 [Inch]MMT_Len=12
 [Inch]C1_dist=10.5+0.787
+[Inch]C2_dist=8.4+0.787
+[Inch]C3_dist=2+0.787
+[Inch]C4_dist=0.787
 [Inch]Plywood_thk=0.25
 [Inch]CR_OD=3
 [Inch]CR_ID=MMT_OD
+[Inch]Frame_w=5/8
+[Inch]Frame_h=5/8
+[Inch]Frame_l=C2_dist-C3_dist-Plywood_thk
+[Inch]Fin_bolt_d=0.4
+
 
 
 
