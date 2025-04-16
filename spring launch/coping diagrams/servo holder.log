@@ -1,0 +1,50 @@
+﻿
+Unigraphics NX2306.1700 / 2D Exchange
+
+Reading part: C:\Users\atlan\OneDrive - University of Illinois - Urbana\Desktop\LRI\Flight_Vehicle_Design\spring launch\CAD\servo holder.prt
+
+
+Writing part: C:\Users\atlan\AppData\Local\Temp\atla836463F1tgmm.prt
+
+Elapsed time   :    0 minutes,  1 seconds
+Actual CPU Time:    0 minutes,  0 seconds
+
+INFO-
+INFO-		Unigraphics Version NX2306.1700 to AutoCAD 2004
+INFO-		
+INFO-
+INFO-		Running UGTODXF Translator .....
+INFO-
+INFO-		Start of Translation: Wed Apr 16 10:28:05 2025
+INFO-
+STATUS-		Converting C:\Users\atlan\AppData\Local\Temp\atla836463F1tgmm.prt
+STATUS-
+SUMMARY-
+SUMMARY-	Summary of Unigraphics Input Entities
+SUMMARY-	For Unigraphics File: C:\Users\atlan\AppData\Local\Temp\atla836463F1tgmm.prt
+SUMMARY-	------------------------------------------------------------------
+SUMMARY-	Entity Type					Count
+SUMMARY-	------------------------------------------------------------------
+SUMMARY-	Line .....................................:	72
+SUMMARY-	Circle ...................................:	8
+SUMMARY-	------------------------------------------------------------------
+SUMMARY-	Total ....................................:	80
+SUMMARY-	------------------------------------------------------------------
+SUMMARY-
+STATUS-
+INFO-
+INFO-		Writing File: C:\Users\atlan\OneDrive - University of Illinois - Urbana\Desktop\LRI\Flight_Vehicle_Design\spring launch\coping diagrams\servo holder.dxf
+SUMMARY-	Summary of AutoCAD Output Entities
+SUMMARY-	------------------------------------------------------------------
+SUMMARY-	Entity Type					Count
+SUMMARY-	------------------------------------------------------------------
+SUMMARY-	Circle ...................................:	8
+SUMMARY-	Line .....................................:	72
+SUMMARY-	Layout ...................................:	6
+SUMMARY-	------------------------------------------------------------------
+SUMMARY-	Total ....................................:	86
+SUMMARY-	------------------------------------------------------------------
+SUMMARY-
+INFO-
+INFO-		End of Translation: Wed Apr 16 10:28:06 2025
+INFO-		Translation CPU time: 0 m, 1 sINFO-
